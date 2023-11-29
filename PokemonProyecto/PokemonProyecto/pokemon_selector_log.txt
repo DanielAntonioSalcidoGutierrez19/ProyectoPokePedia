@@ -1,0 +1,272 @@
+nov 28, 2023 6:45:18 P. M. PokemonSelectorGUI$2 doInBackground
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 6:45:18 P. M. PokemonSelectorGUI$3 doInBackground
+INFO: Pokémon del tipo normal cargados exitosamente.
+nov 28, 2023 6:45:19 P. M. PokemonSelectorGUI$5 doInBackground
+INFO: Información del Pokémon cargada: pidgey
+nov 28, 2023 6:45:26 P. M. PokemonSelectorGUI$3 doInBackground
+INFO: Pokémon del tipo shadow cargados exitosamente.
+nov 28, 2023 6:45:40 P. M. PokemonSelectorGUI$4 doInBackground
+INFO: Información del Pokémon cargada: pikachu
+nov 28, 2023 6:45:41 P. M. PokemonSelectorGUI$4 doInBackground
+INFO: Información del Pokémon cargada: pikachu
+nov 28, 2023 6:46:53 P. M. PokemonSelectorGUI$2 doInBackground
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 6:46:53 P. M. PokemonSelectorGUI$3 doInBackground
+INFO: Pokémon del tipo normal cargados exitosamente.
+nov 28, 2023 6:46:54 P. M. PokemonSelectorGUI$5 doInBackground
+INFO: Información del Pokémon cargada: pidgey
+nov 28, 2023 6:50:44 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 6:50:44 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:50:52 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:51:01 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:51:07 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:52:06 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 6:52:06 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:52:10 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:52:15 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:53:02 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 6:53:29 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 6:54:47 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:02:33 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:02:33 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:02:48 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:02:59 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:03:44 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:09:04 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:09:04 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:09:11 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:09:20 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:09:55 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:01 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:12 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:13 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:15 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:17 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:19 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:24 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:26 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:32 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:37 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:44 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:47 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:52 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:55 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:10:59 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:01 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:04 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:08 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:12 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:15 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:18 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:39 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:11:39 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:42 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:11:59 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:02 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:20:02 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:09 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:16 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:26 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:33 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:38 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:49 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:20:53 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:03 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:07 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:11 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:15 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:19 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:23 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:26 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:31 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:36 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:40 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:43 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:47 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:50 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:21:56 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:22:02 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:25:12 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:49:18 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:49:18 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:49:34 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:49:39 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:03 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:50:05 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:15 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:19 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:22 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:25 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:28 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:30 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:51 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 7:50:51 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:50:56 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:01 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:04 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:10 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:13 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:19 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:25 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:29 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:33 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:35 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:39 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:51:54 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:01 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:04 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:10 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:12 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:14 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:18 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:27 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:29 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:32 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:35 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:52:37 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 7:53:22 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:06:45 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 8:06:45 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:13:51 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 8:13:51 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:14:04 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:14:09 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:14:11 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:14:25 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:14:31 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:28:59 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 8:29:00 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:29:10 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:29:37 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 8:29:38 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:30:57 P. M. PokemonSelectorGUI loadPokemonTypes
+INFO: Tipos de Pokémon cargados exitosamente.
+nov 28, 2023 8:30:58 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
+nov 28, 2023 8:31:01 P. M. PokemonSelectorGUI loadPokemonList
+INFO: Pokémon del tipo cargados exitosamente.
